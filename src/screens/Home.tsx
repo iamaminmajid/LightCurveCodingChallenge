@@ -1,5 +1,6 @@
 import React from 'react'
-import SearchTokens from './SearchTokens'
+import SearchTokens from '../components/SearchTokens'
+
 function Home() {
   return (
     <div className="hero">

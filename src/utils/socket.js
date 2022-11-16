@@ -30,7 +30,7 @@ export const socket = (baseURL) => {
     ++connectionCount
     console.log(`connecting to ${baseURL}`)
     if(connectionCount > 1) {
-        console.log(`multiple socket connection is slow down the service`)
+        console.log(`multiple socket connection is slow down the service ${connectionCount}`)
     }
     return {
         subscribe,
