@@ -1,4 +1,4 @@
-# LightCurve Coding Challenge [WIP]
+# LightCurve Coding Challenge
 
 ## Getting Started with Create React App
 
